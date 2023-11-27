@@ -10,3 +10,9 @@ The first project is my attempt to edit the provided code to add accessibility f
 - I was able to learn how to scan through the html code to look for the parts of the code that I need to edit.
 - This is my first attempt at editing code and I feel I learned a lot about layout and the effects of one change in HTML and CSS on the entire webpage.
 - I realized through this project how challenging it is to have an entire page with rather vague instructions rather than a small piece of code you are tasked with editing.
+
+- ## Description
+  This is a website for Horiseon.
+  
+-The assignment asked us to correctly label and edit the HTML, CSS and README files.
+- The assignment was to clarify and streamline the HTML and CSS code.
