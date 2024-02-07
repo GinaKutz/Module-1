@@ -16,3 +16,6 @@ The first project is my attempt to edit the provided code to add accessibility f
   
 -The assignment asked us to correctly label and edit the HTML, CSS and README files.
 - The assignment was to clarify and streamline the HTML and CSS code.
+
+## Collaboration
+  The code was originally provided with the assignment for Module 1 written by Xandromus. I consulted with Megan Schneider from class and Wesley Clements a tutor via zoom to work on this project.
